@@ -13,6 +13,6 @@ In my first week, I was introduced to python by Micheal Adeleke. I was also intr
 Learning with SCIKIT-LEARN. I was able to bond with my team mates during the team building activity
 and we were asked to build a tall tower made of Spaghetti, Mushmellows and Tape.
 
-Our Team  ALGO
+Our Team  ALGORITHM invloves
 
 [Back](./)
