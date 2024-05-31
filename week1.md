@@ -13,6 +13,14 @@ In my first week, I was introduced to python by Micheal Adeleke. I was also intr
 Learning with SCIKIT-LEARN. I was able to bond with my team mates during the team building activity
 and we were asked to build a tall tower made of Spaghetti, Mushmellows and Tape.
 
-Our Team  ALGORITHM invloves
+Our Team  ALGORITHM invloves building a triangular based and a straight head. The problem with our Algorithm
+was that the base was not strong enough. it invovled tape spaghetti's two by two and  they taping them to 
+follow a triangular shape. 
+
+The only problem was that the people who presented Pandas and Numpy were  ttalking too fast and were mostly
+concerntrated on finishing their slide than people understanding.
+
+I love the first day orientation when Dr Waters said that 'You don't have to think like a programmer but a
+researcher'. All in all it was a fun experience.
 
 [Back](./)
