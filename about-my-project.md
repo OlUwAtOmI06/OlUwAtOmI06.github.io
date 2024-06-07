@@ -1,6 +1,6 @@
 ## About My Project
 
-mBot Neo
+ParkingSense
 
 Problem: The main purpose of our project is to enhance  parking efficiency through predictive modelling  and live tracking  at Morgan state to help solve the parking issues.
 
