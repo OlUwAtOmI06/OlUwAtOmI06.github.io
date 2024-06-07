@@ -2,14 +2,14 @@
 
 mBot Neo
 
-Problem: There is a lack of reasearch focusing on exploring ways to build educational software that integrates physical robots and physiological sensors. 
+Problem: The main purpose of our project is to enhance  parking efficiency through predictive modelling  and live tracking  at Morgan state to help solve the parking issues.
 
 Approach: During this project, I will assist a team in designing a system that accomplishes the following:
+     Uses historical data  to enhance predictive modelling, reduce parking time  and  preserve the efficiency of  parking allocations.  
+     Combines the IoT sensor and camera to give more precise parking. 
+ 
 
-  - Capture physiological data such as EEG and EMG from the human body.
-  - Process raw sensor data and classify events such as gestures (e.g., arm movements) and emotional states (e.g., attention levels)
-  - Map output from physiological sensors to a physical robot. 
+Expected Outcome: The project is expected to result in a conference poster presentation at the end of the program. We also plan on building a parking model.
 
-Expected Outcome: The project is expected to result in a conference poster presentation at the end of the DREU program. The poster will focus on the system's technical architecture.
 
 
