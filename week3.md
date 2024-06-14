@@ -38,6 +38,7 @@ PAPER ONE: PREDICTING UNIVERSITY CAMPUS PARKING USING MACHINE LEARNING MODEL
 
 TUESDAY:
 MEETING WITH DR ANITA PANDEY
+
 RESEARCH PAPER CONTIUATION 
 Abstract:
 
@@ -58,16 +59,23 @@ Five research questions were posed to evaluate linear regression vs ANN models a
 A stand-alone equation was extracted from the recommended ANN model (PANN) for course schedulers to use outside of MATLAB.
 
 WEDNESDAY
+
 ORIENTATION WITH DR GLORIA WASHINGTON ON AFRICAN AMERICAN VERNACULAR AND SEARCH ENGINES
+
 KAGGLE STUDY : INTERMEIDATE MACHINE LEARNING
 
 THURSDAY
+
 TRIP TO JOHN HOPKINS UNIVERSITY
 
 FRIDAY
+
 VIDEO CREATION
+
 BLOG UPDATION
+
 MORE RESEARCH PAPER : COST EFFECTIVE SMART PARKING ON CAMPUSES
+
 ABSTRACT
 IoT technology has been applied to various fields, improving convenience and quality of life.
 The study aims to develop a solution for the congestion, gas-wasting, and stress-inducing struggles faced by commuters while parking at a university.
