@@ -2,7 +2,7 @@ THIS IS A SUMMARY OF EVENTS THAT HAPPENED DURING THIS WEEK AT CEALMS 2024
 
 
 MONDAY 
-9 - 10 : Review of github and introduction to Latex
+9 - 10 : Review of github and introduction plus Use of OVERLEAF
 10 - 12:30 : WRITING SESSION WITH DR ANITA PANDEY
 Writing Workshop  Session 2
 
