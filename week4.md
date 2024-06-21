@@ -1,4 +1,4 @@
-Monday 
+MONDAY
 9 - 9:30      Announcements by Micheal Adeleke
 9:30 - 10:30  Introduction to AI and its impacts on Education
 10:30 - 11:30 Writing Session with Doctor Anita Pandey
@@ -11,7 +11,7 @@ Paudel, S., Vechione, M., & Gurbuz, O. (2023). Predicting University Campus Park
 Journal of the Transport Research Board		
 Schools do not have enough money to build parking facilities and they relie on parking permits money. 
 
-Tuesday
+TUESDAY
 9 - 12:30 What I found in the Research Book
 REVIEW: Predicting University Campus Parking
 Demand Using Machine Learning Models
