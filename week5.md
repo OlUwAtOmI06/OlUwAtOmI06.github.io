@@ -3,7 +3,7 @@ Monday
 
 11 - 12;30; We had a private session with Dr Anita Pandey where she told us that she would suggest a name change to our mentor
 
-1:30 - 5:00 We watched parking traing videos
+1:30 - 5:00 We watched parking training videos
 
 
 Tuesday
